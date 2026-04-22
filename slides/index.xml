@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slides |</title><link>https://isaacneibaur.com/slides/</link><atom:link href="https://isaacneibaur.com/slides/index.xml" rel="self" type="application/rss+xml"/><description>Slides</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://isaacneibaur.com/media/icon_hu_da05098ef60dc2e7.png</url><title>Slides</title><link>https://isaacneibaur.com/slides/</link></image><item><title>Example Talk: Recent Work</title><link>https://isaacneibaur.com/slides/example/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://isaacneibaur.com/slides/example/</guid><description>&lt;!-- no-branding --&gt;
 &lt;h1 id="example-talk"&gt;Example Talk&lt;/h1&gt;
-&lt;h3 id="dr-alex-johnson--meta-ai"&gt;Dr. Alex Johnson · Meta AI&lt;/h3&gt;
+&lt;h3 id="isaac-neibaur"&gt;Isaac Neibaur&lt;/h3&gt;
 &lt;hr&gt;
 &lt;h2 id="research-overview"&gt;Research Overview&lt;/h2&gt;
 &lt;ul&gt;
@@ -319,7 +319,7 @@ Thank you for your attention! Feel free to reach out with questions or contribut
 &lt;p&gt;Add copyright, conference name, or any persistent text:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="nt"&gt;branding&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;footer&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;text&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;© 2024 Your Name · ICML 2024&amp;#34;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;text&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;© 2026 Isaac Neibaur · ICML 2026&amp;#34;&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nt"&gt;position&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;#34;bottom-center&amp;#34;&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Supports Markdown! Use &lt;code&gt;[Link](url)&lt;/code&gt; for clickable links.&lt;/p&gt;
 &lt;hr&gt;
