@@ -1200,7 +1200,7 @@ Powered by Hugo Blox Kit - https://github.com/HugoBlox/kit
 format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p&gt;
 &lt;p&gt;Save your Plotly JSON in your page folder, for example &lt;code&gt;line-chart.json&lt;/code&gt;, and then add the &lt;code&gt;{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code&gt; shortcode where you would like the chart to appear.&lt;/p&gt;
 &lt;p&gt;Demo:&lt;/p&gt;
-&lt;div id="chart-249783651" class="chart"&gt;&lt;/div&gt;
+&lt;div id="chart-692158437" class="chart"&gt;&lt;/div&gt;
 &lt;script&gt;
 (function() {
 async function fetchChartJSON() {
@@ -1216,7 +1216,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart =&gt; {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-249783651', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-692158437', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -1692,7 +1692,7 @@ data.head()
 &lt;span class="inline-block pr-1"&gt;
 &lt;span style="height: 1em; transform: translateY(0.1em);"&gt;python&lt;/span&gt;
 &lt;/span&gt; Python&lt;/p&gt;
-&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-"&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;</description></item><item><title>Embed Media</title><link>https://isaacneibaur.com/courses/hugo-blox/guide/formatting/media/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://isaacneibaur.com/courses/hugo-blox/guide/formatting/media/</guid><description>&lt;p&gt;
+&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-"&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;</description></item><item><title>Education</title><link>https://isaacneibaur.com/education/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://isaacneibaur.com/education/</guid><description/></item><item><title>Embed Media</title><link>https://isaacneibaur.com/courses/hugo-blox/guide/formatting/media/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://isaacneibaur.com/courses/hugo-blox/guide/formatting/media/</guid><description>&lt;p&gt;
 is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1785,7 +1785,7 @@ data.head()
 &lt;span class="inline-block pr-1"&gt;
 &lt;span style="height: 1em; transform: translateY(0.1em);"&gt;python&lt;/span&gt;
 &lt;/span&gt; Python&lt;/p&gt;
-&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-"&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;</description></item><item><title>Experience</title><link>https://isaacneibaur.com/education/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://isaacneibaur.com/education/</guid><description/></item><item><title>Experience</title><link>https://isaacneibaur.com/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://isaacneibaur.com/experience/</guid><description/></item><item><title>✅ Manage your projects</title><link>https://isaacneibaur.com/blog/project-management/</link><pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate><guid>https://isaacneibaur.com/blog/project-management/</guid><description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
+&lt;h2 id="did-you-find-this-page-helpful-consider-sharing-it-"&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;</description></item><item><title>Experience</title><link>https://isaacneibaur.com/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://isaacneibaur.com/experience/</guid><description/></item><item><title>✅ Manage your projects</title><link>https://isaacneibaur.com/blog/project-management/</link><pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate><guid>https://isaacneibaur.com/blog/project-management/</guid><description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id="ideation"&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
 &lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
