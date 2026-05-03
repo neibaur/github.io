@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python |</title><link>https://isaacneibaur.com/tags/python/</link><atom:link href="https://isaacneibaur.com/tags/python/index.xml" rel="self" type="application/rss+xml"/><description>Python</description><generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 May 2026 00:00:00 +0000</lastBuildDate><image><url>https://isaacneibaur.com/media/icon_hu_fb558a5ed99f547e.png</url><title>Python</title><link>https://isaacneibaur.com/tags/python/</link></image><item><title>NHTSA Recall Intelligence</title><link>https://isaacneibaur.com/projects/nhtsa-recall-intelligence/</link><pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate><guid>https://isaacneibaur.com/projects/nhtsa-recall-intelligence/</guid><description>&lt;p&gt;In-progress project for the 100daydash.blog challenge, focused on turning NHTSA public recall API data into dashboard-ready analytics.&lt;/p&gt;
+&lt;p&gt;The project is scoped around practical data lifecycle work: ingesting recall records from the public API, shaping them into analysis-friendly tables, and preparing measures that can support trend, manufacturer, component, and campaign-level reporting.&lt;/p&gt;
+&lt;p&gt;Current focus areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NHTSA public recall API ingestion&lt;/li&gt;
+&lt;li&gt;Repeatable data cleaning and normalization&lt;/li&gt;
+&lt;li&gt;Dashboard-ready recall and campaign analytics&lt;/li&gt;
+&lt;li&gt;Documentation of design choices during the 100daydash.blog challenge&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
